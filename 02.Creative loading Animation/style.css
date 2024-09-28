@@ -25,7 +25,7 @@
     height: 40px;
     width: 40px;
     border-radius: 50%;
-    animation: load 2s ease infinite;
+    animation: load 1.3s ease infinite;
     position: relative;
 }
 
@@ -55,7 +55,7 @@
         width: 40px;
     }
 
-    30% {
+    40% {
          height: 20px;
          width: 20px;
     }
