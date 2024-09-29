@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aqua
+}
+
+.para{
+    max-height: 200px;
+    border: 2px solid black;
+    padding: 5px;
+    margin: 5px;
+    color: black;
+    
+}
+
+::-webkit-scrollbar{
+    background-color:transparent;
+    width: 20px;
+     
+}
+::-webkit-scrollbar-thumb{
+    background:linear-gradient(#FF3CAC,#F76B1C);
+    border-radius: 200px;
+   
+
+}
